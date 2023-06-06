@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8734869459",
+    "project_id": "prod2-serienetflix",
+    "storage_bucket": "prod2-serienetflix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8734869459:android:00b413cab3e0900fd15126",
+        "android_client_info": {
+          "package_name": "com.serienetflixprod4rn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8734869459-cearl8qasm0qoguv3ql0f7c7vaspsdhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZAekpFbcOT9M1pKOrvc6OR9dAaTBZWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8734869459-cearl8qasm0qoguv3ql0f7c7vaspsdhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
